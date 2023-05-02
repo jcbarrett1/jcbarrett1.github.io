@@ -10,7 +10,7 @@ title:            Jacob Barrett
 tagline:          'Info'
 description:      'Software Engineer<br>Game Developer<br>Musician'
 url:              https://jcbarrett1.github.io
-baseurl:          http://jcbarrett1.github.io/
+#baseurl:          https://jcbarrett1.github.io/
 
 author:
   name:           'Jacob Barrett'
