@@ -8,7 +8,7 @@ A Shoot em Up game developed over the course of 2 months for a game development 
 it involved writing custom engine and rendering code and roughly 30,000 lines of additional code total. All the 
 assets and are custom made for this game.
 
-<a href=https://echo-of-the-subterra.web.app/> Play it here.</a>
+<a href="https://echo-of-the-subterra.web.app/"> Play it here.</a>
 <img src="/assets/EOSTtitle.png"/>
 <img src="/assets/EOSTgameplay.png"/>
 
@@ -58,11 +58,11 @@ Compared the winloss ratio of every bot in a chart.
 
 Try playing against the best bot by downloading the <a href="/assets/mancala.py">Mancala python script</a>.
 
-##Fake Stack Overflow
+## Fake Stack Overflow
 A webapp made in a software development class using the MERN (Mongoose, Express, React, Node.js) stack to deliver similar
 functionality to stack overflow. Users could post questions, and other users could vote on those questions and answer them.
 
-##Sheets2App
+## Sheets2App
 A webapp meant to mimic Google AppSheets, where users can create apps without writing any code 
 that interact with google sheets as a backend.
 <img src="/assets/S2A.png"/>
