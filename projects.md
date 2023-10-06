@@ -3,6 +3,15 @@ layout: page
 title: Projects
 ---
 
+## Echoes of the Subterra Game
+A Shoot em Up game developed over the course of 2 months for a game development class. Written in the Wolfie2D engine,
+it involved writing custom engine and rendering code and roughly 30,000 lines of additional code total. All the 
+assets and are custom made for this game.
+
+<a href=https://echo-of-the-subterra.web.app/> Play it here.</a>
+<img src="/assets/EOSTtitle.png"/>
+<img src="/assets/EOSTgameplay.png"/>
+
 ## Decaf Compiler
 Developed a compiler that takes a program written in Decaf, a language modeled after Java, and compiles it 
 to abstract machine code. Written in Python over the course of a semester.
@@ -49,8 +58,12 @@ Compared the winloss ratio of every bot in a chart.
 
 Try playing against the best bot by downloading the <a href="/assets/mancala.py">Mancala python script</a>.
 
-## Ableton User Instructions
-User instructions for <a href="https://docs.google.com/document/d/1ccjKEBXLTS8tJAEKt3Mbrwhw_P5l8udo1hT_qEmavPY/edit?usp=sharing">how to use sidechain compression in Ableton Live</a>.
+##Fake Stack Overflow
+A webapp made in a software development class using the MERN (Mongoose, Express, React, Node.js) stack to deliver similar
+functionality to stack overflow. Users could post questions, and other users could vote on those questions and answer them.
 
-## Research Press Release
-<a href="https://docs.google.com/document/d/1QCzwFYvMMrfm0l6h5qRWxCgzOP8OHKOE0mBQsCE7dW8/edit?usp=sharing">A press release</a> detailing new research developments by Stony Brook University about the population collapse of scallops near Long Island.
+##Sheets2App
+A webapp meant to mimic Google AppSheets, where users can create apps without writing any code 
+that interact with google sheets as a backend.
+<img src="/assets/S2A.png"/>
+
