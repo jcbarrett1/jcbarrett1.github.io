@@ -6,7 +6,7 @@ title: Projects
 ## Echoes of the Subterra Game
 A Shoot em Up game developed over the course of 2 months for a game development class. Written in the Wolfie2D engine,
 it involved writing custom engine and rendering code and roughly 30,000 lines of additional code total. All the 
-assets and are custom made for this game.
+assets are custom made for this game.
 
 <a href="https://echo-of-the-subterra.web.app/"> Play it here.</a>
 <img src="/assets/EOSTtitle.png"/>
